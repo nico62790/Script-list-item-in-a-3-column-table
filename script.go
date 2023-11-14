@@ -18,8 +18,8 @@ type model struct {
 }
 
 const (
-	menuTitle = "Choisissez un routeur"
-	quitLabel = "Quitter"
+	menuTitle = "Choose a choice"
+	quitLabel = "Quit"
 	columns   = 3
 	fileName  = "pe.txt"
 )
